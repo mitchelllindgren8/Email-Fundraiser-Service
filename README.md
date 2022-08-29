@@ -10,9 +10,7 @@ email addresses of local supporters, community members, and family members for t
 ongoing. The donors would follow the link to the donation website and complete the fundraising process.
 
 # Features
-## Features
-### Features
-**Email + Password Login**
+### Email + Password Login
   - User-login interface connected to a SQL database
   - Seperate Login form from Dashboard form
 - Two-Factor Authentication (2FA)
@@ -20,4 +18,7 @@ ongoing. The donors would follow the link to the donation website and complete t
 - Email verification
   - Plug in your SMTP credentials for Mailgun, Gmail, or anything else
   
- **Email + Password Login**
+### Interactive Dashboard
+- Features modifying fundraising events in real time
+- Event data is connected to a SQL database
+  
