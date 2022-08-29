@@ -25,4 +25,12 @@ ongoing. The donors would follow the link to the donation website and complete t
   - Add event (i.e. Create an Event for the Varsity Boys Football team to funraise $5,000)
   - View the past, present, and future events the oraganization is hosting
 - Event data is connected to a SQL database
-  
+
+
+
+
+![home1!](https://user-images.githubusercontent.com/43658901/187299788-2d0c0dcf-ea6c-4b87-b487-691563915118.PNG)
+
+![addevent1!](https://user-images.githubusercontent.com/43658901/187299814-9e475f35-14ec-4c2c-bd87-5e928bd7721c.PNG)
+
+![viewevent1!](https://user-images.githubusercontent.com/43658901/187299839-0934f52c-b14e-481e-9fd5-ada67c31cf94.PNG)
