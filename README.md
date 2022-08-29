@@ -18,7 +18,11 @@ ongoing. The donors would follow the link to the donation website and complete t
 - Email verification
   - Plug in your SMTP credentials for Mailgun, Gmail, or anything else
   
+![login1!](https://user-images.githubusercontent.com/43658901/187299106-1679dadb-ee97-405c-a895-c9a6e513a045.PNG)
+  
 ### Interactive Dashboard
 - Features modifying fundraising events in real time
+  - Add event (i.e. Create an Event for the Varsity Boys Football team to funraise $5,000)
+  - View the past, present, and future events the oraganization is hosting
 - Event data is connected to a SQL database
   
