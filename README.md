@@ -4,7 +4,7 @@ The goal of the Email Fundraiser Service was to create an method communicating, 
 or organization would host.
 
 # Project Description
-The project originally was designed to utilize a test G-Mail account, and emulate the basic email operations that a service would provide. The 
+The project originally was designed to utilize a Google email account and emulate the basic email operations that a service would provide. The 
 hosting-organization would create an event based off of the sport, club, or group they wanted to fundraiser for. The participants would share the
 email addresses of local supporters, community members, and family members for them later to be contacted about the specific fundraiser that is 
 ongoing. The donors would follow the link to the donation website and complete the fundraising process.
