@@ -1,6 +1,6 @@
 # Email-Fundraiser-Service
 
-The goal of the Email Fundraiser Service was to create an method communicating, organizing, and displaying the fundraiser events that a highschool 
+The goal of the Email Fundraiser Service was to create a method of communicating, organizing, and displaying the fundraiser events that a highschool 
 or organization would host.
 
 # Project Description
