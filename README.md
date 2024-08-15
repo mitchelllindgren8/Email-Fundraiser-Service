@@ -24,7 +24,7 @@ ongoing. The donors would follow the link to the donation website and complete t
 - Features modifying fundraising events in real time
   - Add event (i.e. Create an Event for the Varsity Boys Football team to funraise $5,000)
   - View the past, present, and future events the oraganization is hosting
-- Event data is connected to a SQL database
+- Event data is connected to a SQL database 
 
 
 
